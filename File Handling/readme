@@ -1,0 +1,12 @@
+'r' To Read file.
+'w' To Write the file.
+'a' To Append the file (write end of file)
+
+Functions
+
+file.read() #Read full files
+file.write("Enter a content") #Write in files
+file.readlines() #Read entire lines of file
+file.writelines() #Write mutiple lines in file
+file.close() #Close the file
+pass #Erase the file content
