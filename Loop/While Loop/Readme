@@ -1,0 +1,5 @@
+variable += 1 (To increment the variable by 1)
+variable -= 1 (To decrement the variable by -1)
+variable *= 2 (To multiply the variable by 2)
+variable /= 4 (To divide the variable by 4)
+variable **=2 (To exponent the variable by 2 means 'square')
