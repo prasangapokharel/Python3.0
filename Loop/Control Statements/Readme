@@ -1,0 +1,2 @@
+break (statement is use to exit the loop after met of certain condition)
+continue (skip the rest of the loop and move to next iteration)
